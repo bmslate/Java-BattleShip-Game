@@ -1,0 +1,28 @@
+src\BattleShip\BattleShipView.java:116: error: unmappable character (0x9D) for encoding windows-1252
+        // åˆ?å§‹åŒ– UI æ–‡æœ¬
+             ^
+src\BattleShip\BattleShipController.java:14: error: unmappable character (0x9D) for encoding windows-1252
+    private static GameInterFace game; // å°†gameå£°æ˜Žä¸ºé?™æ€?
+                                                           ^
+src\BattleShip\BattleShipController.java:14: error: unmappable character (0x81) for encoding windows-1252
+    private static GameInterFace game; // å°†gameå£°æ˜Žä¸ºé?™æ€?
+                                                               ^
+src\BattleShip\BattleShipController.java:34: error: unmappable character (0x8F) for encoding windows-1252
+        this.theView.exitButtonListener(e -> System.exit(0)); // å…³é—­ç¨‹åº?
+                                                                            ^
+src\BattleShip\ProductionTeam.java:18: error: unmappable character (0x9D) for encoding windows-1252
+        // åˆ›å»ºå†…å®¹é?¢æ?¿
+                        ^
+src\BattleShip\ProductionTeam.java:18: error: unmappable character (0x9D) for encoding windows-1252
+        // åˆ›å»ºå†…å®¹é?¢æ?¿
+                           ^
+src\BattleShip\ProductionTeam.java:37: error: unmappable character (0x9D) for encoding windows-1252
+        // å°†å†…å®¹é?¢æ?¿æ·»åŠ åˆ°æ¡†æž¶ä¸­
+                     ^
+src\BattleShip\ProductionTeam.java:37: error: unmappable character (0x9D) for encoding windows-1252
+        // å°†å†…å®¹é?¢æ?¿æ·»åŠ åˆ°æ¡†æž¶ä¸­
+                        ^
+src\BattleShip\SettingUI.java:61: error: unmappable character (0x9D) for encoding windows-1252
+                MVCBattleShip.updateLanguage(newLocale); // æ›´æ–°ä¸»ç•Œé?¢è¯­è¨€
+                                                                         ^
+9 errors
